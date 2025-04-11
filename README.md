@@ -1,6 +1,6 @@
 # Countdown Timer ⏳  
 
-This repository contains a simple script that counts down from 10 to 1.  
+This repository has a simple script that counts down from 10 to 1.  
 
 ## Code in This Repo  
 ```python
